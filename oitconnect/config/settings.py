@@ -82,7 +82,7 @@ DATABASES = {
         'NAME': 'verceldb',
         'USER': 'default',
         'PASSWORD': 'lUa9Rf3eNTky',
-        'HOST': 'ep-jolly-feather-582547-pooler.us-east-1.postgres.vercel-storage.comt',
+        'HOST': 'ep-jolly-feather-582547-pooler.us-east-1.postgres.vercel-storage.com',
         'PORT': '5432',
     }
 }
