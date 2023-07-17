@@ -79,13 +79,15 @@ WSGI_APPLICATION = 'config.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'oitconnect',
-        'USER': 'postgres',
-        'PASSWORD': 'Dai5884ki%#',
-        'HOST': 'localhost',
+        'NAME': 'verceldb',
+        'USER': 'default',
+        'PASSWORD': 'lUa9Rf3eNTky',
+        'HOST': 'ep-jolly-feather-582547-pooler.us-east-1.postgres.vercel-storage.comt',
         'PORT': '5432',
     }
 }
+
+
 # Password validation
 # https://docs.djangoproject.com/en/4.2/ref/settings/#auth-password-validators
 
